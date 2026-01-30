@@ -1,0 +1,31 @@
+{
+  "arb": {
+    "displayName": "Standard Arabic",
+    "symbols": [
+      "ض"
+    ]
+  },
+  "deu": {
+    "displayName": "German",
+    "symbols": [
+      "🇩🇪",
+      "🇦🇹",
+      "ä"
+    ]
+  },
+  "eng": {
+    "displayName": "English",
+    "symbols": [
+      "🇺🇸",
+      "🇬🇧"
+    ]
+  },
+  "spa": {
+    "displayName": "Spanish",
+    "symbols": [
+      "🇲🇽",
+      "ñ",
+      "🇪🇸"
+    ]
+  }
+}
